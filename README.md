@@ -2,7 +2,7 @@
 
 👀 I’m interested in how data science can save lives and improve the quality of life for everyone.
 
-🌱 I’m currently learning about blockchain technology, virtual reality, and augmented reality.  
+🌱 I’m currently learning about blockchain technology and artificial intelligence.  
 
 💞️ I’m looking to collaborate on information technology, programming, artifical intelligence, and machine learning. 
 
